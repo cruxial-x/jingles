@@ -1,2 +1,2 @@
 # jingles
-cocoon jingles
+https://cocoon-shell.com/wiki/jingles/
