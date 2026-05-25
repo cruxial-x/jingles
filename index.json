@@ -1,0 +1,15 @@
+{
+  "name": "Cruxial Jingles",
+  "entries": [
+    {
+      "name": "Pokémon",
+      "file": "pokemon_level_up.mp3",
+      "regex": "pok[eé]mon"
+    },
+    {
+      "name": "Zelda - A Link to the Past",
+      "file": "zelda_item.mp3",
+      "regex": "zelda"
+    }
+  ]
+}
