@@ -7,9 +7,31 @@
       "regex": "pok[eé]mon"
     },
     {
-      "name": "Zelda - A Link to the Past",
+      "name": "Zelda - Item Get",
       "file": "zelda_item.mp3",
-      "regex": "zelda"
+      "regex": "zelda|hyrule|majora|ocarina|skyward|twilight princess|wind waker|breath of the wild|tears of the kingdom|link.?s awakening|minish"
+    },
+    {
+      "name": "Zelda - Clock Tower Bell",
+      "file": "zelda_clock_tower_bell.mp3",
+      "regex": "zelda|hyrule|majora|ocarina|skyward|twilight princess|wind waker|breath of the wild|tears of the kingdom|link.?s awakening|minish"
+    },
+    {
+      "name": "Zelda - Navi Listen",
+      "file": "zelda_navi_listen.mp3",
+      "regex": "zelda|hyrule|majora|ocarina|skyward|twilight princess|wind waker|breath of the wild|tears of the kingdom|link.?s awakening|minish"
+    }
+  ],
+  "gc": [
+    {
+      "name": "GameCube Startup",
+      "file": "gamecube_startup.mp3"
+    }
+  ],
+  "switch": [
+    {
+      "name": "Switch Click",
+      "file": "switch_click.mp3"
     }
   ]
 }
