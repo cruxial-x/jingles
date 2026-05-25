@@ -20,16 +20,6 @@
       "name": "Zelda - Navi Listen",
       "file": "zelda_navi_listen.mp3",
       "regex": "zelda|hyrule|majora|ocarina|skyward|twilight princess|wind waker|breath of the wild|tears of the kingdom|link.?s awakening|minish"
-    },
-    {
-      "name": "GameCube Startup",
-      "file": "gamecube_startup.mp3",
-      "regex": ".*"
-    },
-    {
-      "name": "Switch Click",
-      "file": "switch_click.mp3",
-      "regex": ".*"
     }
   ]
 }
