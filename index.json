@@ -23,11 +23,13 @@
     },
     {
       "name": "GameCube Startup",
-      "file": "gamecube_startup.mp3"
+      "file": "gamecube_startup.mp3",
+      "regex": ".*"
     },
     {
       "name": "Switch Click",
-      "file": "switch_click.mp3"
+      "file": "switch_click.mp3",
+      "regex": ".*"
     }
   ]
 }
