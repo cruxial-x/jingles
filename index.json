@@ -40,6 +40,26 @@
       "name": "Pokemon Black - Pokémon Black and White OST - Disc 3 Received BP",
       "file": "pokemon_black_and_white_ost_disc_3_received_bp_83052.mp3",
       "regex": "pok[eé]mon"
+    },
+    {
+      "name": "Metroid - Item Acquisition Super Metroid",
+      "file": "item_acquisition_super_metroid.mp3",
+      "regex": "metroid"
+    },
+    {
+      "name": "Metroid - emmi sounds metroid dread",
+      "file": "emmi_sounds_metroid_dread_9379.mp3",
+      "regex": "metroid"
+    },
+    {
+      "name": "Metroid - Metroid Prime Item Fanfare",
+      "file": "metroid_prime_item_fanfare_189.mp3",
+      "regex": "metroid"
+    },
+    {
+      "name": "Metroid - Metroid Fusion item acquisition",
+      "file": "metroid_fusion_item_acquisition_55737.mp3",
+      "regex": "metroid"
     }
   ]
 }

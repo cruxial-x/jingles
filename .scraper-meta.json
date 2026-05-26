@@ -19,5 +19,33 @@
     "url": "https://www.myinstants.com/media/sounds/pokemon-black-and-white-ost-disc-3-received-bp.mp3",
     "pageUrl": "https://www.myinstants.com/en/instant/pokemon-black-and-white-ost-disc-3-received-bp-83052/",
     "imported_at": "2026-05-26T23:17:26.551Z"
+  },
+  "item_acquisition_super_metroid.mp3": {
+    "source": "myinstants",
+    "slug": "item-acquisition-super-metroid",
+    "url": "https://www.myinstants.com/media/sounds/super-metroid-music-item-acquisition-fanfare.mp3",
+    "pageUrl": "https://www.myinstants.com/en/instant/item-acquisition-super-metroid/",
+    "imported_at": "2026-05-26T23:20:56.398Z"
+  },
+  "emmi_sounds_metroid_dread_9379.mp3": {
+    "source": "myinstants",
+    "slug": "emmi-sounds-metroid-dread-9379",
+    "url": "https://www.myinstants.com/media/sounds/emmi-sounds-metroid-dread.mp3",
+    "pageUrl": "https://www.myinstants.com/en/instant/emmi-sounds-metroid-dread-9379/",
+    "imported_at": "2026-05-26T23:20:56.440Z"
+  },
+  "metroid_prime_item_fanfare_189.mp3": {
+    "source": "myinstants",
+    "slug": "metroid-prime-item-fanfare-189",
+    "url": "https://www.myinstants.com/media/sounds/metroid-prime-music-item-acquisition-fanfare.mp3",
+    "pageUrl": "https://www.myinstants.com/en/instant/metroid-prime-item-fanfare-189/",
+    "imported_at": "2026-05-26T23:20:56.484Z"
+  },
+  "metroid_fusion_item_acquisition_55737.mp3": {
+    "source": "myinstants",
+    "slug": "metroid-fusion-item-acquisition-55737",
+    "url": "https://www.myinstants.com/media/sounds/metroid-fusion-item-acquisition.mp3",
+    "pageUrl": "https://www.myinstants.com/en/instant/metroid-fusion-item-acquisition-55737/",
+    "imported_at": "2026-05-26T23:20:56.525Z"
   }
 }
