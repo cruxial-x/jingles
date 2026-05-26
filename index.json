@@ -20,6 +20,11 @@
       "name": "Zelda - Navi Listen",
       "file": "zelda_navi_listen.mp3",
       "regex": "zelda|hyrule|majora|ocarina|skyward|twilight princess|wind waker|breath of the wild|tears of the kingdom|link.?s awakening|minish"
+    },
+    {
+      "name": "Zelda - Wind Waker",
+      "file": "zelda_windwaker.mp3",
+      "regex": "zelda"
     }
   ]
 }
