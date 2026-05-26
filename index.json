@@ -9,17 +9,17 @@
     {
       "name": "Zelda - Item Get",
       "file": "zelda_item.mp3",
-      "regex": "zelda|hyrule|majora|ocarina|skyward|twilight princess|wind waker|breath of the wild|tears of the kingdom|link.?s awakening|minish"
+      "regex": "zelda"
     },
     {
       "name": "Zelda - Clock Tower Bell",
       "file": "zelda_clock_tower_bell.mp3",
-      "regex": "zelda|hyrule|majora|ocarina|skyward|twilight princess|wind waker|breath of the wild|tears of the kingdom|link.?s awakening|minish"
+      "regex": "zelda"
     },
     {
       "name": "Zelda - Navi Listen",
       "file": "zelda_navi_listen.mp3",
-      "regex": "zelda|hyrule|majora|ocarina|skyward|twilight princess|wind waker|breath of the wild|tears of the kingdom|link.?s awakening|minish"
+      "regex": "zelda"
     },
     {
       "name": "Zelda - Wind Waker",
