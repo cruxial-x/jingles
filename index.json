@@ -25,6 +25,11 @@
       "name": "Zelda - Wind Waker",
       "file": "zelda_windwaker.mp3",
       "regex": "zelda"
+    },
+    {
+      "name": "Pokemon - Classic Pokemon Heal",
+      "file": "classic_pokemon_heal.mp3",
+      "regex": "pok[eé]mon"
     }
   ]
 }
