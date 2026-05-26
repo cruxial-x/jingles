@@ -30,6 +30,16 @@
       "name": "Pokemon - Classic Pokemon Heal",
       "file": "classic_pokemon_heal.mp3",
       "regex": "pok[eé]mon"
+    },
+    {
+      "name": "Pokemon Black - Pokémon Black and White OST - Disc 3: Entralink",
+      "file": "pokemon_black_and_white_ost_disc_3_entralink_27587.mp3",
+      "regex": "pok[eé]mon"
+    },
+    {
+      "name": "Pokemon Black - Pokémon Black and White OST - Disc 3 Received BP",
+      "file": "pokemon_black_and_white_ost_disc_3_received_bp_83052.mp3",
+      "regex": "pok[eé]mon"
     }
   ]
 }
